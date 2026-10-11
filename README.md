@@ -21,35 +21,44 @@ A base é comunitária. O projeto documenta sua origem, verificações de consis
 
 ## Experiência profissional
 
-### Viasoft — Estagiário de Desenvolvimento de Software
-**Janeiro a julho de 2023**
+### Prefeitura Municipal de Laranjeiras do Sul — Diretor do Departamento de Eventos de Esporte e Lazer
+**Novembro de 2025 até o momento**
 
-Apoio à análise de dados e às atividades de Business Intelligence no segmento financeiro, com consultas SQL e manipulação de dados em bancos relacionais. Organização e interpretação de informações para atender às demandas da equipe.
+- **4 eventos esportivos de nível estadual** organizados ou acompanhados, com atuação no planejamento e na execução.
+- **Mais de 10 processos licitatórios** acompanhados, com organização documental e apoio à análise de informações administrativas.
+- **3 projetos de desenvolvimento esportivo** acompanhados, envolvendo planejamento e organização de demandas.
 
 ### Universidade Campo Real — Suporte de Tecnologia da Informação
 **Abril de 2024 a junho de 2025**
 
-Suporte técnico a alunos e professores, instalação e configuração de sistemas e manutenção de equipamentos e servidores. Apoio às rotinas no RM TOTVS e atualização do site institucional com videoaulas e materiais acadêmicos.
+- **Mais de 50 pessoas atendidas por semana** em suporte técnico a alunos, professores e colaboradores, envolvendo hardware, software e sistemas institucionais.
+- **Planilhas de controle implantadas onde antes não eram utilizadas**, para estruturar o acompanhamento de informações administrativas e operacionais.
+- **Suporte ao sistema RM TOTVS** nas rotinas acadêmicas e administrativas.
 
-### Prefeitura de Laranjeiras do Sul — Diretor do Departamento de Eventos de Esporte e Lazer
-**Novembro de 2025 até o momento**
+### Viasoft — Estagiário de Desenvolvimento de Software
+**Janeiro a julho de 2023**
 
-Organização de projetos, eventos e campeonatos municipais. Apoio ao planejamento de demandas, aos processos administrativos e licitatórios e a projetos de captação de recursos.
+- **Consultas SQL e manipulação de dados relacionais** em atividades de apoio à análise de dados e Business Intelligence.
+- **Organização e interpretação de informações** para atender a demandas da equipe.
 
 ### Cantu Tech — Primeiro Secretário
 **Julho de 2023 a março de 2025**
 
-Apoio à gestão de contas e aos controles de patrimônio, caixa e recursos da OSCIP, em parceria com a Prefeitura de Laranjeiras do Sul.
+- **Controle de contas, caixa e registros patrimoniais**, apoiando o acompanhamento dos recursos da organização.
+- **Registros financeiros e administrativos organizados** para uso nas rotinas da instituição.
 
 ### Sudomed — Auxiliar Administrativo
 **Agosto a novembro de 2025**
 
-Lançamento de informações, organização de documentos, apoio às visitas técnicas e elaboração de relatórios no Pacote Office.
+- **Relatórios e documentos administrativos elaborados e organizados** com ferramentas do Pacote Office.
+- **Informações administrativas registradas e atualizadas** para as rotinas operacionais.
+- **Documentação de visitas técnicas preparada e organizada** para apoiar as atividades.
 
 ### Projeto Letramento Digital — Professor
 **Junho a agosto de 2024**
 
-Ensino de informática básica, programação em blocos e robótica com Arduino para crianças de 9 a 12 anos.
+- **40 alunos alcançados** em atividades de informática, programação em blocos e robótica com Arduino, voltadas a crianças de 9 a 12 anos.
+- **Atividades práticas de tecnologia desenvolvidas** para introduzir conceitos de programação e informática.
 
 ## Outros projetos
 
