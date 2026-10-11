@@ -6,18 +6,27 @@ Sou estudante de Engenharia de Software e técnico em Administração. Busco uma
 
 Minha trajetória reúne consultas SQL e apoio a BI na Viasoft, suporte a sistemas na Universidade Campo Real e organização de processos administrativos na Prefeitura de Laranjeiras do Sul.
 
-## Projeto em destaque
+## Projetos em destaque
 
-### [Análise do Brasileirão 2023 com SQL](https://github.com/eliasvinharski97/brasileirao-sql)
+### [Dashboard de Vendas | Power BI](https://github.com/eliasvinharski97/dashboard-vendas-powerbi)
 
-Projeto de estudo com **380 partidas, 20 clubes e oito consultas SQL**, conforme a documentação e os resultados disponíveis no repositório.
+**Power BI · Power Query · DAX · Análise de negócios**
 
-- **Pergunta:** como os clubes se saíram no ataque, na defesa e na pontuação, e como os resultados se distribuíram entre mandantes e visitantes?
-- **Ferramentas:** SQLite e consultas com SELECT, JOIN, WHERE, GROUP BY, HAVING e agregações. Python dá apoio à carga e à exportação dos dados.
-- **Resultados publicados:** 946 gols, média de 2,49 gols por partida e 46,84% de vitórias dos mandantes.
-- **Evidências:** [consultas SQL](https://github.com/eliasvinharski97/brasileirao-sql/tree/main/sql), [tabelas de resultados](https://github.com/eliasvinharski97/brasileirao-sql/blob/main/resultados/RESULTADOS.md) e instruções de reprodução no README.
+Dashboard com três páginas para análise de faturamento, lucratividade, produtos e descontos, utilizando a base pública *Financial Sample*, da Microsoft.
 
-A base é comunitária. O projeto documenta sua origem, verificações de consistência e limites da análise.
+- **Indicadores analisados:** US$ 118,73 milhões em faturamento, US$ 16,89 milhões em lucro e margem geral de 14,23%, conforme os resultados documentados no projeto.
+- **Conclusão de negócio:** o segmento Enterprise apresentou margem de **-3,13%**, sinalizando a necessidade de investigar custos e precificação.
+- **Evidências:** [visualizações, metodologia e análises no repositório](https://github.com/eliasvinharski97/dashboard-vendas-powerbi#readme).
+
+### [Análise do Brasileirão 2023 | SQL](https://github.com/eliasvinharski97/brasileirao-sql)
+
+**SQL · SQLite · Python para preparação e execução**
+
+Análise de **380 partidas e 20 clubes**, com oito consultas SQL documentadas para investigar desempenho, gols e resultados em casa e fora.
+
+- **Técnicas:** SELECT, JOIN, WHERE, GROUP BY, HAVING e funções de agregação.
+- **Resultados encontrados:** 946 gols, média de 2,49 por partida e 46,84% de vitórias dos mandantes.
+- **Evidências:** [consultas SQL](https://github.com/eliasvinharski97/brasileirao-sql/tree/main/sql), [resultados](https://github.com/eliasvinharski97/brasileirao-sql/blob/main/resultados/RESULTADOS.md) e instruções de reprodução no README.
 
 ## Experiência profissional
 
