@@ -34,10 +34,20 @@ Minha trajetória reúne atividades em tecnologia, processos administrativos e o
 | Organização e função | Experiência relevante |
 | --- | --- |
 | **Prefeitura de Laranjeiras do Sul** — Diretor do Departamento de Eventos de Esporte e Lazer (nov/2025–atual) | Planejamento e acompanhamento de projetos, organização de demandas e documentos e apoio à análise de informações administrativas e processos licitatórios. |
-| **Universidade Campo Real** — Suporte de TI (abr/2024–jun/2025) | Suporte a sistemas institucionais, RM TOTVS e implantação de planilhas para organização e controle de informações. |
+| **Universidade Campo Real** — Suporte de TI (abr/2024–jun/2025) | Suporte a sistemas institucionais e RM TOTVS; proposta de uso de planilhas para acompanhar atividades realizadas e pendentes. |
 | **Viasoft** — Estagiário de Desenvolvimento de Software (jan–jul/2023) | Consultas SQL, manipulação de dados relacionais e organização de informações em atividades de apoio à equipe, incluindo BI. |
 
 Também atuei com rotinas administrativas, controle financeiro e patrimonial e ensino de informática.
+
+### Melhorias de processos na prática
+
+**Prefeitura de Laranjeiras do Sul — matrículas de alunos**
+
+As matrículas eram realizadas em fichas físicas, o que tornava o processo demorado. Participei da mudança para formulários digitais (Forms), contribuindo para tornar as matrículas mais rápidas. A melhoria foi percebida na rotina, sem medição formal do tempo economizado.
+
+**Universidade Campo Real — acompanhamento de atividades**
+
+Identifiquei a necessidade de melhorar o controle das atividades e propus o uso de planilhas para acompanhar o que era feito e o que ainda precisava ser realizado. A proposta tinha como objetivo organizar o acompanhamento das tarefas e dar mais visibilidade às pendências.
 
 ## Formação e aprendizado
 
