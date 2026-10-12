@@ -1,60 +1,31 @@
 # Elias Santos Vinharski
 
-### Análise de Dados | Business Intelligence | SQL · Python · Power BI
+**Em transição para Análise de Dados e BI | Busco oportunidades júnior**
 
-Sou estudante de **Engenharia de Software**, com formação técnica em Administração e experiência em tecnologia, consultas SQL, suporte a sistemas e organização de informações.
+Estudante de Engenharia de Software, com formação técnica em Administração e experiência em suporte de TI, consultas SQL e organização de informações. Aplico SQL, Python e Power BI em projetos de estudo com dados públicos e demonstrativos.
 
-Estou direcionando minha carreira para **Análise de Dados e Business Intelligence**, buscando oportunidades como **Analista de Dados Júnior** ou **Analista de BI Júnior**. Tenho interesse em transformar dados em indicadores claros para investigar problemas e apoiar decisões.
+## Portfólio em um minuto
 
-## Projetos em destaque
+| Projeto | O que pode ser conferido | Resultado da análise |
+| --- | --- | --- |
+| [Reclamações de passageiros — Python](https://github.com/eliasvinharski97/Analise_de_Dados_Python/tree/main/reclamacoes-aereas) | Notebook com Pandas, inspeção de qualidade, gráficos e tabelas exportadas | 103.340 registros; os três problemas mais frequentes concentram 31,77% do total |
+| [Brasileirão 2023 — SQL](https://github.com/eliasvinharski97/brasileirao-sql) | Oito consultas, tabelas relacionadas, banco SQLite e verificações de integridade | 380 partidas; mandantes venceram 46,84% dos jogos |
+| [Desempenho comercial — Power BI](https://github.com/eliasvinharski97/dashboard-vendas-powerbi) | Três páginas de dashboard, medidas DAX documentadas, planilha e arquivo PBIX | Enterprise apresenta margem de -3,13% na base demonstrativa |
 
-Projetos de **estudo e portfólio**, desenvolvidos para aplicar conhecimentos em análise de dados com **bases públicas reais e demonstrativas**. Cada projeto apresenta o desafio, a abordagem e resultados que podem ser conferidos no repositório.
+São projetos de estudo e portfólio. Os resultados descrevem as bases analisadas; não representam ganhos obtidos em empresas.
 
-### 01 | [Reclamações de passageiros — Python](https://github.com/eliasvinharski97/Analise_de_Dados_Python/tree/main/reclamacoes-aereas)
+## Competências demonstradas nos projetos
 
-**Python · Pandas · Matplotlib · Análise exploratória**
+- **SQL e SQLite:** consultas com `JOIN`, filtros, agregações e `HAVING`; separação de clubes e partidas em tabelas relacionadas.
+- **Python e Pandas:** inspeção de ausentes, tratamento de tempos inconsistentes, agrupamentos, indicadores e exportação de resultados.
+- **Power BI, Power Query e DAX:** preparação de dados, medidas de faturamento e margem, gráficos e filtros interativos.
+- **Interpretação:** definição dos denominadores dos indicadores e registro das limitações antes de formular conclusões.
 
-**Desafio:** identificar os principais motivos de reclamação de passageiros e analisar indicadores de atendimento a partir de dados públicos da ANAC / Consumidor.gov.br referentes a 2025.
+### Exemplos de cuidado com os dados
 
-**O que desenvolvi:**
-- Inspeção e análise de **103.340 registros**.
-- Tratamento analítico de valores ausentes e tempos inconsistentes.
-- Indicadores de atendimento, comparação entre problemas e empresas e visualizações.
-- Documentação dos critérios e das limitações dos resultados.
-
-**Principal descoberta:** os três problemas mais frequentes concentraram **31,77%** dos registros. A taxa de resolução foi de **67,99% entre as reclamações com avaliação de desfecho**, que representam **50,37%** da base.
-
-[Ver notebook, gráficos e metodologia →](https://github.com/eliasvinharski97/Analise_de_Dados_Python/tree/main/reclamacoes-aereas)
-
-### 02 | [Brasileirão 2023 — SQL](https://github.com/eliasvinharski97/brasileirao-sql)
-
-**SQL · SQLite · Modelagem relacional · Consultas analíticas**
-
-**Desafio:** transformar os resultados de partidas em indicadores para comparar desempenho ofensivo, defensivo e resultados de mandantes e visitantes.
-
-**O que desenvolvi:**
-- Organização de dados de **380 partidas e 20 clubes** em tabelas relacionadas.
-- **Oito consultas SQL** com `SELECT`, `JOIN`, `WHERE`, `GROUP BY`, `HAVING` e agregações.
-- Verificações de integridade e scripts para reproduzir os resultados.
-
-**Principal descoberta:** os mandantes venceram **46,84%** das partidas, contra **27,37%** de vitórias dos visitantes, sem que essa diferença, isoladamente, demonstre uma causa.
-
-[Ver consultas SQL, dados e resultados →](https://github.com/eliasvinharski97/brasileirao-sql)
-
-### 03 | [Análise de desempenho comercial — Power BI](https://github.com/eliasvinharski97/dashboard-vendas-powerbi)
-
-**Power BI · Power Query · DAX · Excel**
-
-**Desafio:** construir um dashboard para investigar faturamento, lucro, margens e descontos por produto e segmento, utilizando a **base demonstrativa Financial Sample**, da Microsoft.
-
-**O que desenvolvi:**
-- Dashboard com **três páginas analíticas**.
-- Inspeção e organização dos dados com Power Query.
-- Medidas DAX e visualizações interativas para indicadores financeiros e comerciais.
-
-**Principal descoberta:** o segmento **Enterprise apresentou margem de -3,13%**, indicando a necessidade de investigar custos e precificação; a base não permite atribuir o prejuízo exclusivamente aos descontos.
-
-[Ver dashboards, medidas DAX e arquivo PBIX →](https://github.com/eliasvinharski97/dashboard-vendas-powerbi)
+- **Python:** a resolução é calculada entre reclamações com avaliação de desfecho e apresentada junto da cobertura dessa avaliação. Isso evita confundir ausência de avaliação com resolução.
+- **SQL:** a visão de desempenho contém duas linhas por jogo, uma por clube. A contagem de partidas utiliza a tabela de jogos para evitar duplicação.
+- **Power BI:** a margem usa lucro total dividido por faturamento total. O relatório distingue faturamento, lucro absoluto e rentabilidade proporcional.
 
 ## Experiência profissional
 
@@ -67,13 +38,6 @@ Minha trajetória reúne atividades em tecnologia, processos administrativos e o
 | **Viasoft** — Estagiário de Desenvolvimento de Software (jan–jul/2023) | Consultas SQL, manipulação de dados relacionais e organização de informações em atividades de apoio à equipe, incluindo BI. |
 
 Também atuei com rotinas administrativas, controle financeiro e patrimonial e ensino de informática.
-
-## Competências técnicas
-
-- **Dados:** SQL, SQLite, Python, Pandas, Matplotlib e análise exploratória.
-- **Business Intelligence:** Power BI, Power Query, DAX e construção de indicadores.
-- **Planilhas e processos:** Excel, relatórios e organização de informações.
-- **Conhecimentos complementares:** bancos de dados relacionais, RM TOTVS, suporte técnico e fundamentos de desenvolvimento de software.
 
 ## Formação e aprendizado
 
